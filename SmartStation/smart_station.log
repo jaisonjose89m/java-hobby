@@ -1,0 +1,8 @@
+Jul 06, 2016 12:12:43 PM smartstation.gui.MainPage <init>
+INFO: Loading Main Page
+Jul 06, 2016 12:12:44 PM smartstation.gui.MainPage <init>
+INFO: Getting the info for next 10 days
+Jul 06, 2016 12:12:47 PM smartstation.gui.MainPage setTableContents
+WARNING: Unable to get the vehicle info for next 10 days
+Jul 06, 2016 12:12:47 PM smartstation.gui.MainPage <init>
+INFO: Collected the info for next 10 days
